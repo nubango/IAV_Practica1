@@ -133,6 +133,7 @@ GameObject:
   - component: {fileID: 78873672}
   - component: {fileID: 78873671}
   - component: {fileID: 78873674}
+  - component: {fileID: 78873675}
   m_Layer: 0
   m_Name: Enemigo
   m_TagString: Untagged
@@ -153,8 +154,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   peso: 1
-  prioridad: 1
+  prioridad: 0
   objetivo: {fileID: 1021455439}
+  slowRadius: 6
+  targetRadius: 3
+  timeToTarget: 0.1
 --- !u!114 &78873672
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -208,6 +212,24 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 84
   m_CollisionDetection: 0
+--- !u!114 &78873675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 78873670}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57ec524fb3bd20641b73255854acdd80, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  peso: 1
+  prioridad: 1
+  objetivo: {fileID: 1021455439}
+  escapeRadius: 1
+  targetRadius: 6
+  timeToTarget: 0.1
 --- !u!1 &149594257
 GameObject:
   m_ObjectHideFlags: 0
