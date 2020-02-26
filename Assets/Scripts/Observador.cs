@@ -20,8 +20,8 @@
                 else
                 {
                     GetComponent<Seguir>().enabled = true;
-                    //GetComponent<EvasionColisiones>().enabled = true;
-                    //GetComponent<EvasionObstaculos>().enabled = true;
+                    GetComponent<EvasionColisiones>().enabled = true;
+                    GetComponent<EvasionObstaculos>().enabled = true;
                     GetComponent<Separacion>().enabled = true;
                     GetComponent<Idle>().enabled = false;
                 }
@@ -37,8 +37,8 @@
                 else
                 {
                     GetComponent<Seguir>().enabled = false;
-                    //GetComponent<EvasionColisiones>().enabled = true;
-                    //GetComponent<EvasionObstaculos>().enabled = true;
+                    GetComponent<EvasionColisiones>().enabled = false;
+                    GetComponent<EvasionObstaculos>().enabled = false;
                     GetComponent<Separacion>().enabled = false;
                     GetComponent<Idle>().enabled = true;
                 }

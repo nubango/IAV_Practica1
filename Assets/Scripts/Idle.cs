@@ -15,18 +15,26 @@ namespace UCM.IAV.Movimiento
         /// <returns></returns>
         /// 
 
-        float slowRadius = 3;
-        float targetRadius = 1;
-        float timeToTarget = 0.1f;
+        public float slowRadius = 3;
+        public float targetRadius = 1;
+        public float timeToTarget = 0.1f;
 
         private float currentTime;
         private float targetTime;
 
         bool inTarget = false;
 
+        public UnityEngine.Bounds suelo;
+        public UnityEngine.Vector3 target;
         private void Start()
         {
             inTarget = true;
+
+            currentTime = UnityEngine.Time.time;
+            targetTime = currentTime + UnityEngine.Random.Range(1, 5);
+
+            suelo = UnityEngine.GameObject.Find("Suelo").GetComponent<UnityEngine.MeshFilter>().mesh.bounds;
+                target = new UnityEngine.Vector3(UnityEngine.Random.Range(-suelo.size.x * 10, suelo.size.x * 10), 0, UnityEngine.Random.Range(-suelo.size.z * 10, suelo.size.z * 10));
         }
 
         public override Direccion GetDireccion()
@@ -35,27 +43,24 @@ namespace UCM.IAV.Movimiento
             UnityEngine.Vector3 targetVelocity;
 
             Direccion result = new Direccion();
-            UnityEngine.Bounds suelo = UnityEngine.GameObject.Find("Suelo").GetComponent<UnityEngine.MeshFilter>().mesh.bounds;
-            UnityEngine.Vector3 target = UnityEngine.Vector3.zero;
-            if (inTarget && currentTime > targetTime)
+
+            if (currentTime > targetTime)
             {
-                target = new UnityEngine.Vector3(UnityEngine.Random.Range(0, suelo.size.x), UnityEngine.Random.Range(0, suelo.size.y), 0);
+                target = new UnityEngine.Vector3(UnityEngine.Random.Range(-suelo.size.x * 10, suelo.size.x * 10), 0, UnityEngine.Random.Range(-suelo.size.z * 10, suelo.size.z * 10));
                 inTarget = false;
+                currentTime = UnityEngine.Time.time;
+                targetTime = currentTime + UnityEngine.Random.Range(3, 7);
             }
-            
-            UnityEngine.Vector3 direction = ( target - transform.position);
+
+            currentTime = UnityEngine.Time.time;
+
+            UnityEngine.Vector3 direction = (target - transform.position);
 
             if (direction.magnitude < targetRadius)
             {
                 result.lineal = UnityEngine.Vector3.zero;
                 result.angular = 0;
-                if (!inTarget)
-                {
-                    inTarget = true;
-                    currentTime = UnityEngine.Time.time * 1000;
-                    targetTime = currentTime + UnityEngine.Random.Range(1000, 5000);
-                }
-                else currentTime = UnityEngine.Time.time * 1000;
+
                 return result;
             }
             if (direction.magnitude < slowRadius)
