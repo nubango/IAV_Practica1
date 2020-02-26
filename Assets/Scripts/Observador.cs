@@ -11,7 +11,6 @@
         {
             if (id == MENSAJE_ID.TOCAR_FLAUTA)
             {
-                Debug.Log("MENSAJE RECIBIDO DE TOCAR FLAUTA");
                 if (gameObject.CompareTag("Perro"))
                 {
                     GetComponent<Huir>().enabled = true;
@@ -23,12 +22,12 @@
                     GetComponent<EvasionColisiones>().enabled = true;
                     GetComponent<EvasionObstaculos>().enabled = true;
                     GetComponent<Separacion>().enabled = true;
+                    GetComponent<Flocking>().enabled = true;
                     GetComponent<Idle>().enabled = false;
                 }
             }
             else if (id == MENSAJE_ID.NO_TOCAR_FLAUTA)
             {
-                Debug.Log("MENSAJE RECIBIDO DE NO TOCAR FLAUTA");
                 if (gameObject.CompareTag("Perro"))
                 {
                     GetComponent<Huir>().enabled = false;
@@ -40,6 +39,7 @@
                     GetComponent<EvasionColisiones>().enabled = false;
                     GetComponent<EvasionObstaculos>().enabled = false;
                     GetComponent<Separacion>().enabled = false;
+                    GetComponent<Flocking>().enabled = false;
                     GetComponent<Idle>().enabled = true;
                 }
             }

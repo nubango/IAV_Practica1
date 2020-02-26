@@ -8,16 +8,10 @@
         public Observador[] observadores;
 
         // Start is called before the first frame update
-        void Start()
+        public void Start()
         {
             // cogemos todos los observadores de la escena
             observadores = Object.FindObjectsOfType<Observador>();
-        }
-
-        // Update is called once per frame
-        void Update()
-        {
-
         }
 
         public void enviarMensaje(MENSAJE_ID id)

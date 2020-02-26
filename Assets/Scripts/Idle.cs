@@ -26,7 +26,7 @@ namespace UCM.IAV.Movimiento
 
         public UnityEngine.Bounds suelo;
         public UnityEngine.Vector3 target;
-        private void Start()
+        public void Start()
         {
             inTarget = true;
 

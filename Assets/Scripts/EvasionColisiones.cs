@@ -16,9 +16,6 @@ namespace UCM.IAV.Movimiento
         public override Direccion GetDireccion()
         {
             Direccion result = new Direccion();
-            UnityEngine.Vector3 direction;
-
-            
 
             Flocking firstTarget = null;
 
