@@ -25,7 +25,7 @@ namespace UCM.IAV.Movimiento
 
             Direccion result = new Direccion();
             UnityEngine.Vector3 direction;
-            foreach (Flocking target in gameObject.GetComponent<Flocking>().GetArrayOfObjects())
+            foreach (Flocking target in FindObjectsOfType<Flocking>())
             {
                 if (target != this)
                 {

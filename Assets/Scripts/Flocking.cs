@@ -8,12 +8,13 @@
 
 namespace UCM.IAV.Movimiento
 {
-    public class Flocking : ComportamientoAgente
+    using UnityEngine;
+    public class Flocking : MonoBehaviour
     {
 
         private Flocking[] bandada;
 
-        private void Start()
+        public void Start()
         {
             bandada = FindObjectsOfType<Flocking>();
         }
@@ -23,7 +24,10 @@ namespace UCM.IAV.Movimiento
             return bandada;
         }
 
-        public Agente GetAgente() { return agente; }
+        public Agente GetAgente() 
+        {
+            return gameObject.GetComponent<Agente>();
+        }
 
     }
 }

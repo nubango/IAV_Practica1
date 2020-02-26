@@ -34,7 +34,7 @@ namespace UCM.IAV.Movimiento
             UnityEngine.Vector3 firstRelativePos = UnityEngine.Vector3.zero;
             UnityEngine.Vector3 firstRelativeVel = UnityEngine.Vector3.zero;
 
-            foreach (Flocking target in gameObject.GetComponent<Flocking>().GetArrayOfObjects())
+            foreach(Flocking target in FindObjectsOfType<Flocking>())
             {
                 
                 if (target != this)
