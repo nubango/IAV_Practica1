@@ -3,7 +3,7 @@
    Martín Amechazurra Falagán
    Gonsalo Alba Durán
    Nuria Bango Iglesias
-   Marcos Linares (?)
+   Marcos Linares
 */
 namespace UCM.IAV.Movimiento
 {
@@ -22,7 +22,7 @@ namespace UCM.IAV.Movimiento
         public float targetRadius;
         public float timeToTarget;
 
-        public override Direccion GetDireccion()
+        public Direccion GetNewDireccion()
         {
             float targetSpeed;
             UnityEngine.Vector3 targetVelocity;

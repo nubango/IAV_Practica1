@@ -16,34 +16,34 @@ namespace UCM.IAV.Movimiento
         /// <returns></returns>
 
         public float maxAcceleration;
-        // lista de potenciales targets
-        UnityEngine.GameObject[] kinematic;
         public float threshold;
         public float decayCoefficient;
 
-        public override Direccion GetDireccion()
+
+        public Direccion GetNewDireccion()
         {
-            float targetSpeed;
-            UnityEngine.Vector3 targetVelocity;
 
             Direccion result = new Direccion();
-
-            foreach (UnityEngine.GameObject target in kinematic)
+            UnityEngine.Vector3 direction;
+            foreach (Flocking target in gameObject.GetComponent<Flocking>().GetArrayOfObjects())
             {
-                UnityEngine.Vector3 direction = target.transform.position - transform.position;
-                float distance = direction.magnitude;
-
-                if (distance < threshold)
+                if (target != this)
                 {
-                    // strange of repulsion
-                    float strength = UnityEngine.Mathf.Min(decayCoefficient / (distance * distance), maxAcceleration);
+                    direction = -1*(target.transform.position - transform.position);
+                    float distance = direction.magnitude;
 
-                    direction.Normalize();
+                    if (distance < threshold)
+                    {
+                        // strange of repulsion
+                        float strength = UnityEngine.Mathf.Min(decayCoefficient / (distance * distance), maxAcceleration);
 
-                    result.lineal += strength * direction;
+                        direction.Normalize();
+
+                        result.lineal += strength * direction;
+                    }
                 }
+                
             }
-            
             return result;
         }
     }

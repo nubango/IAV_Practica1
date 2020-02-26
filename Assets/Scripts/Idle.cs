@@ -1,12 +1,5 @@
 ﻿/*    
-   Copyright (C) 2020 Federico Peinado
-   http://www.federicopeinado.com
-
-   Este fichero forma parte del material de la asignatura Inteligencia Artificial para Videojuegos.
-   Esta asignatura se imparte en la Facultad de Informática de la Universidad Complutense de Madrid (España).
-
-   Autor: Federico Peinado 
-   Contacto: email@federicopeinado.com
+   Copyright MI FLEQUILLO
 */
 namespace UCM.IAV.Movimiento
 {
@@ -14,7 +7,7 @@ namespace UCM.IAV.Movimiento
     /// <summary>
     /// Clase para modelar el comportamiento de SEGUIR a otro agente
     /// </summary>
-    public class Seguir : ComportamientoAgente
+    public class Idle : ComportamientoAgente
     {
         /// <summary>
         /// Obtiene la dirección
@@ -22,22 +15,47 @@ namespace UCM.IAV.Movimiento
         /// <returns></returns>
         /// 
 
-        public float slowRadius;
-        public float targetRadius;
-        public float timeToTarget;
+        float slowRadius = 3;
+        float targetRadius = 1;
+        float timeToTarget = 0.1f;
 
-        public Direccion GetNewDireccion()
+        private float currentTime;
+        private float targetTime;
+
+        bool inTarget = false;
+
+        private void Start()
+        {
+            inTarget = true;
+        }
+
+        public override Direccion GetDireccion()
         {
             float targetSpeed;
             UnityEngine.Vector3 targetVelocity;
 
             Direccion result = new Direccion();
-            UnityEngine.Vector3 direction = (objetivo.transform.position - transform.position);
+            UnityEngine.Bounds suelo = UnityEngine.GameObject.Find("Suelo").GetComponent<UnityEngine.MeshFilter>().mesh.bounds;
+            UnityEngine.Vector3 target = UnityEngine.Vector3.zero;
+            if (inTarget && currentTime > targetTime)
+            {
+                target = new UnityEngine.Vector3(UnityEngine.Random.Range(0, suelo.size.x), UnityEngine.Random.Range(0, suelo.size.y), 0);
+                inTarget = false;
+            }
+            
+            UnityEngine.Vector3 direction = ( target - transform.position);
 
             if (direction.magnitude < targetRadius)
             {
                 result.lineal = UnityEngine.Vector3.zero;
                 result.angular = 0;
+                if (!inTarget)
+                {
+                    inTarget = true;
+                    currentTime = UnityEngine.Time.time * 1000;
+                    targetTime = currentTime + UnityEngine.Random.Range(1000, 5000);
+                }
+                else currentTime = UnityEngine.Time.time * 1000;
                 return result;
             }
             if (direction.magnitude < slowRadius)
