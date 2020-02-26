@@ -22,7 +22,7 @@ namespace UCM.IAV.Movimiento
         public float targetRadius;
         public float timeToTarget;
 
-        public Direccion GetNewDireccion()
+        public override Direccion GetDireccion()
         {
             float targetSpeed;
             UnityEngine.Vector3 targetVelocity;

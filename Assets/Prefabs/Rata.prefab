@@ -103,6 +103,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6501776297619529272}
+  - component: {fileID: 387979743}
+  - component: {fileID: 387979736}
+  - component: {fileID: 387979737}
+  - component: {fileID: 387979738}
+  - component: {fileID: 387979739}
+  - component: {fileID: 387979740}
+  - component: {fileID: 387979741}
+  - component: {fileID: 726390574993677361}
   m_Layer: 0
   m_Name: Rata
   m_TagString: Untagged
@@ -125,3 +133,141 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &387979743
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2272290982467330795}
+  serializedVersion: 2
+  m_Mass: 0.5
+  m_Drag: 1
+  m_AngularDrag: 0.1
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 84
+  m_CollisionDetection: 0
+--- !u!114 &387979736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2272290982467330795}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2968e4e4fbe2834db2a185490889862, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  peso: 8
+  prioridad: 3
+  objetivo: {fileID: 0}
+  maxAcceleration: 10
+  threshold: 2
+  decayCoefficient: 0.7
+--- !u!114 &387979737
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2272290982467330795}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61a4dd812f9fc774a9e5b797bc92156a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  peso: 3
+  prioridad: 8
+  objetivo: {fileID: 0}
+  lookAhead: 3
+  avoidDistance: 1
+--- !u!114 &387979738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2272290982467330795}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6a551bafd9af7b42aa9acfd60b1cf07, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  peso: 5
+  prioridad: 5
+  objetivo: {fileID: 0}
+  maxAcceleration: 10
+  radius: 1
+--- !u!114 &387979739
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2272290982467330795}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82e92ec8f463fd84cac92ffd22bc97c9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  peso: 10
+  prioridad: 1
+  objetivo: {fileID: 0}
+  slowRadius: 6
+  targetRadius: 3
+  timeToTarget: 0.1
+--- !u!114 &387979740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2272290982467330795}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44a1436110950a24180ef1d6d4a3594b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  peso: 1
+  prioridad: 1
+  objetivo: {fileID: 0}
+--- !u!114 &387979741
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2272290982467330795}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e27b1398245256a4aa176c4cad05e629, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mezclarPorPeso: 0
+  mezclarPorPrioridad: 1
+  umbralPrioridad: 0.2
+  velocidadMax: 5
+  aceleracionMax: 10
+  rotacionMax: 2
+  aceleracionAngularMax: 1
+  orientacion: 0
+  rotacion: 0
+  velocidad: {x: 0, y: 0, z: 0}
+--- !u!114 &726390574993677361
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2272290982467330795}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f71958298ac94e4a857c6893158d458, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  peso: 1
+  prioridad: 1
+  objetivo: {fileID: 0}

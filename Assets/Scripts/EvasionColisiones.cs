@@ -13,7 +13,7 @@ namespace UCM.IAV.Movimiento
         public float maxAcceleration;
         public float radius;
 
-        public Direccion GetNewDireccion()
+        public override Direccion GetDireccion()
         {
             Direccion result = new Direccion();
             UnityEngine.Vector3 direction;

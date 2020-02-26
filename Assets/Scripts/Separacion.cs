@@ -20,7 +20,7 @@ namespace UCM.IAV.Movimiento
         public float decayCoefficient;
 
 
-        public Direccion GetNewDireccion()
+        public override Direccion GetDireccion()
         {
 
             Direccion result = new Direccion();

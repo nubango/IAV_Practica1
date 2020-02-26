@@ -12,7 +12,7 @@ namespace UCM.IAV.Movimiento
     {
         public float lookAhead;
         public float avoidDistance;
-        public Direccion GetNewDireccion()
+        public override Direccion GetDireccion()
         {
 
             Direccion result = new Direccion();
