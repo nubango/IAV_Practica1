@@ -41,6 +41,10 @@ namespace UCM.IAV.Movimiento
         public virtual void Awake()
         {
             agente = gameObject.GetComponent<Agente>();
+
+            // A cada agente que no sea player se le añade una vez el componente observador
+            if (gameObject.GetComponent<Observador>() == null)
+                gameObject.AddComponent<Observador>();
         }
 
         /// <summary>

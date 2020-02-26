@@ -22,6 +22,13 @@ namespace UCM.IAV.Movimiento
         /// Obtiene la dirección
         /// </summary>
         /// <returns></returns>
+
+        public void Awake()
+        {
+            // se añade el componente emisor al player
+            if (gameObject.GetComponent<Emisor>() == null)
+                gameObject.AddComponent<Emisor>();
+        }
         public override Direccion GetDireccion()
         {
             Direccion direccion = new Direccion();

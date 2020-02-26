@@ -418,7 +418,7 @@ GameObject:
   - component: {fileID: 78873675}
   m_Layer: 0
   m_Name: Enemigo
-  m_TagString: Untagged
+  m_TagString: Perro
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3045,6 +3045,7 @@ GameObject:
   - component: {fileID: 1021455441}
   - component: {fileID: 1021455440}
   - component: {fileID: 1021455442}
+  - component: {fileID: 1021455443}
   m_Layer: 0
   m_Name: Avatar
   m_TagString: Untagged
@@ -3105,6 +3106,21 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 84
   m_CollisionDetection: 0
+--- !u!114 &1021455443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1021455439}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88defca14e5be2a4ba5476f2e0d92097, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  peso: 1
+  prioridad: 1
+  objetivo: {fileID: 0}
 --- !u!1 &1100067447
 GameObject:
   m_ObjectHideFlags: 0
