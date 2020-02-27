@@ -114,7 +114,7 @@ namespace UCM.IAV.Movimiento {
             // Estamos usando VelocityChange sólo con propósitos ilustrativos
             cuerpoRigido.AddForce(displacement, ForceMode.VelocityChange);
             Vector3 orientationVector = OriToVec(orientacion);
-            cuerpoRigido.rotation = Quaternion.LookRotation(orientationVector, Vector3.up);
+            //cuerpoRigido.rotation = Quaternion.LookRotation(orientationVector, Vector3.up);
         }
 
         /// <summary>
