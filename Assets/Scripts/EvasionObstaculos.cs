@@ -8,11 +8,15 @@
 
 namespace UCM.IAV.Movimiento
 {
+    using System;
+    using System.Collections;
+    using System.Collections.Generic;
+    using UnityEngine;
     public class EvasionObstaculos : ComportamientoAgente
     {
         public float lookAhead;
         public float avoidDistance;
-        public Seguir f;
+        [HideInInspector] public Seguir f;
 
         public void Start()
         {

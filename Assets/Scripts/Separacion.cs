@@ -8,6 +8,10 @@
 
 namespace UCM.IAV.Movimiento
 {
+    using System;
+    using System.Collections;
+    using System.Collections.Generic;
+    using UnityEngine;
     public class Separacion : ComportamientoAgente
     {
         /// <summary>
@@ -18,7 +22,7 @@ namespace UCM.IAV.Movimiento
         public float maxAcceleration;
         public float threshold;
         public float decayCoefficient;
-        public Seguir f;
+        [HideInInspector] public Seguir f;
 
         public void Start()
         {
