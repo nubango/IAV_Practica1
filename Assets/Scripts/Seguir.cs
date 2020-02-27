@@ -25,6 +25,15 @@ namespace UCM.IAV.Movimiento
         public float slowRadius;
         public float targetRadius;
         public float timeToTarget;
+        bool onTarget;
+
+        public void setOnTarget(bool b) { onTarget = b; }
+        public bool getOnTarget() { return onTarget; }
+
+        public void Start()
+        {
+            onTarget = false;
+        }
 
         public override Direccion GetDireccion()
         {
@@ -38,13 +47,19 @@ namespace UCM.IAV.Movimiento
             {
                 result.lineal = UnityEngine.Vector3.zero;
                 result.angular = 0;
+                if (!onTarget)
+                    onTarget = true;
                 return result;
             }
+
             if (direction.magnitude < slowRadius)
             {
                 targetSpeed = agente.velocidadMax * (direction.magnitude / slowRadius);
             }
             else targetSpeed = agente.velocidadMax;
+
+            if (onTarget)
+                onTarget = false;
 
             targetVelocity = direction;
             targetVelocity.Normalize();

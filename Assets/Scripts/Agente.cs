@@ -136,6 +136,8 @@ namespace UCM.IAV.Movimiento {
             // Restaura la rotación al punto inicial antes de rotar el objeto nuestro valor
             transform.rotation = new Quaternion();
             transform.Rotate(Vector3.up, orientacion);
+
+            
         }
 
         /// <summary>

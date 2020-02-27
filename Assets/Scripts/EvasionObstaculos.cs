@@ -12,10 +12,19 @@ namespace UCM.IAV.Movimiento
     {
         public float lookAhead;
         public float avoidDistance;
+        public Seguir f;
+
+        public void Start()
+        {
+            f = GetComponent<Seguir>();
+        }
         public override Direccion GetDireccion()
         {
 
             Direccion result = new Direccion();
+
+            if (f.getOnTarget())
+                return result;
 
             UnityEngine.Vector3 ray = agente.velocidad;
             ray.Normalize();
@@ -29,7 +38,7 @@ namespace UCM.IAV.Movimiento
             {
                 result.lineal = hit.collider.gameObject.transform.position + hit.normal * avoidDistance;
             }
-
+            //result.lineal.y = 0;
             return result;
         }
     }

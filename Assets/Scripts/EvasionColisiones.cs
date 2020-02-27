@@ -12,10 +12,19 @@ namespace UCM.IAV.Movimiento
     {
         public float maxAcceleration;
         public float radius;
+        public Seguir f;
+
+        public void Start()
+        {
+            f = GetComponent<Seguir>();
+        }
 
         public override Direccion GetDireccion()
         {
             Direccion result = new Direccion();
+
+            if (f.getOnTarget())
+                return result;
 
             Flocking firstTarget = null;
 
@@ -78,6 +87,7 @@ namespace UCM.IAV.Movimiento
             result.lineal = relativePos * maxAcceleration;
             result.angular = 0;
 
+    
             return result;
         }
 
