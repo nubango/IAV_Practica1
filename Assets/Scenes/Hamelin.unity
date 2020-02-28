@@ -290,7 +290,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -306,7 +306,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -330,7 +330,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -342,11 +342,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -515,7 +515,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -531,7 +531,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -555,7 +555,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -567,11 +567,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -1043,7 +1043,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -1059,7 +1059,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -1083,7 +1083,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -1095,11 +1095,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -1262,7 +1262,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -1278,7 +1278,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -1302,7 +1302,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -1314,11 +1314,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -1481,7 +1481,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -1497,7 +1497,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -1521,7 +1521,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -1533,11 +1533,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -1795,7 +1795,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -1811,7 +1811,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -1835,7 +1835,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -1847,11 +1847,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -2207,7 +2207,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -2223,7 +2223,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -2247,7 +2247,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -2259,11 +2259,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -2426,7 +2426,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -2442,7 +2442,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -2466,7 +2466,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -2478,11 +2478,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -2881,7 +2881,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -2897,7 +2897,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -2921,7 +2921,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -2933,11 +2933,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -3106,7 +3106,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -3122,7 +3122,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -3146,7 +3146,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -3158,11 +3158,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -3625,7 +3625,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -3641,7 +3641,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -3665,7 +3665,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -3677,11 +3677,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -3850,7 +3850,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -3866,7 +3866,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -3890,7 +3890,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -3902,11 +3902,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -4069,7 +4069,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -4085,7 +4085,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -4109,7 +4109,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -4121,11 +4121,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -4383,7 +4383,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -4399,7 +4399,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -4423,7 +4423,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -4435,11 +4435,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -4602,7 +4602,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -4618,7 +4618,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -4642,7 +4642,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -4654,11 +4654,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -5014,7 +5014,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -5030,7 +5030,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -5054,7 +5054,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -5066,11 +5066,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -5333,7 +5333,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -5349,7 +5349,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -5373,7 +5373,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -5385,11 +5385,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -5730,7 +5730,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -5746,7 +5746,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -5770,7 +5770,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -5782,11 +5782,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -5949,7 +5949,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -5965,7 +5965,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -5989,7 +5989,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -6001,11 +6001,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -6168,7 +6168,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -6184,7 +6184,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -6208,7 +6208,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -6220,11 +6220,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -6580,7 +6580,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -6596,7 +6596,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -6620,7 +6620,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -6632,11 +6632,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -6805,7 +6805,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -6821,7 +6821,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -6845,7 +6845,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -6857,11 +6857,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -7024,7 +7024,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -7040,7 +7040,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -7064,7 +7064,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -7076,11 +7076,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -7249,7 +7249,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -7265,7 +7265,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -7289,7 +7289,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -7301,11 +7301,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -7965,7 +7965,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -7981,7 +7981,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -8005,7 +8005,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -8017,11 +8017,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -8278,7 +8278,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -8294,7 +8294,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -8318,7 +8318,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -8330,11 +8330,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -8603,7 +8603,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -8619,7 +8619,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -8643,7 +8643,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -8655,11 +8655,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -9010,7 +9010,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -9026,7 +9026,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -9050,7 +9050,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -9062,11 +9062,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -9423,7 +9423,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -9439,7 +9439,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -9463,7 +9463,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -9475,11 +9475,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -9663,7 +9663,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0.38310823, y: -0, z: -0, w: 0.9237035}
-  m_LocalPosition: {x: 0, y: 46.32, z: -49.17}
+  m_LocalPosition: {x: 0, y: 47.15, z: -49.997}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -9845,7 +9845,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -9861,7 +9861,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -9885,7 +9885,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -9897,11 +9897,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -10070,7 +10070,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -10086,7 +10086,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -10110,7 +10110,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -10122,11 +10122,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -10592,7 +10592,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -10608,7 +10608,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -10632,7 +10632,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -10644,11 +10644,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -10911,7 +10911,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -10927,7 +10927,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -10951,7 +10951,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -10963,11 +10963,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -11136,7 +11136,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -11152,7 +11152,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -11176,7 +11176,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -11188,11 +11188,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -11361,7 +11361,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -11377,7 +11377,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -11401,7 +11401,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -11413,11 +11413,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -11657,7 +11657,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -11673,7 +11673,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -11697,7 +11697,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -11709,11 +11709,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -11882,7 +11882,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -11898,7 +11898,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -11922,7 +11922,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -11934,11 +11934,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -12489,7 +12489,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -12505,7 +12505,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -12529,7 +12529,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -12541,11 +12541,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -12802,7 +12802,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -12818,7 +12818,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -12842,7 +12842,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -12854,11 +12854,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -13121,7 +13121,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -13137,7 +13137,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -13161,7 +13161,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -13173,11 +13173,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -13340,7 +13340,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -13356,7 +13356,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -13380,7 +13380,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -13392,11 +13392,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -13559,7 +13559,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -13575,7 +13575,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -13599,7 +13599,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -13611,11 +13611,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -13778,7 +13778,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -13794,7 +13794,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -13818,7 +13818,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -13830,11 +13830,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -14091,7 +14091,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -14107,7 +14107,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -14131,7 +14131,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -14143,11 +14143,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -14310,7 +14310,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -14326,7 +14326,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -14350,7 +14350,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -14362,11 +14362,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -14529,7 +14529,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -14545,7 +14545,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -14569,7 +14569,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -14581,11 +14581,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -14748,7 +14748,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -14764,7 +14764,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -14788,7 +14788,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -14800,11 +14800,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -15051,7 +15051,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -15067,7 +15067,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -15091,7 +15091,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -15103,11 +15103,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -15463,7 +15463,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -15479,7 +15479,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -15503,7 +15503,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -15515,11 +15515,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -15776,7 +15776,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -15792,7 +15792,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -15816,7 +15816,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -15828,11 +15828,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -16297,7 +16297,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -16313,7 +16313,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -16337,7 +16337,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -16349,11 +16349,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -16516,7 +16516,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -16532,7 +16532,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -16556,7 +16556,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -16568,11 +16568,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -16735,7 +16735,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -16751,7 +16751,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -16775,7 +16775,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -16787,11 +16787,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -17525,7 +17525,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -17541,7 +17541,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -17565,7 +17565,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -17577,11 +17577,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -17838,7 +17838,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -17854,7 +17854,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -17878,7 +17878,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -17890,11 +17890,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -18357,7 +18357,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -18373,7 +18373,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -18397,7 +18397,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -18409,11 +18409,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -18770,7 +18770,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -18786,7 +18786,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -18810,7 +18810,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -18822,11 +18822,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -19089,7 +19089,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -19105,7 +19105,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -19129,7 +19129,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -19141,11 +19141,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -19314,7 +19314,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -19330,7 +19330,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -19354,7 +19354,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -19366,11 +19366,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -19921,7 +19921,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -19937,7 +19937,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -19961,7 +19961,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -19973,11 +19973,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -20164,7 +20164,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -20180,7 +20180,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -20204,7 +20204,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -20216,11 +20216,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -20383,7 +20383,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -20399,7 +20399,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -20423,7 +20423,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -20435,11 +20435,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -20608,7 +20608,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -20624,7 +20624,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -20648,7 +20648,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -20660,11 +20660,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
@@ -20921,7 +20921,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979737, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -20937,7 +20937,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979738, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: radius
@@ -20961,7 +20961,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979739, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: prioridad
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 387979740, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: objetivo
@@ -20973,11 +20973,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPrioridad
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: mezclarPorPeso
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 387979741, guid: c68f267d38bcb6443856eeff52cfc329, type: 3}
       propertyPath: umbralPrioridad
