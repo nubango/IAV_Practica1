@@ -1,4 +1,15 @@
-﻿using System.Collections;
+﻿/*    
+   Copyright (C) 2020 Grupo 1
+   Martín Amechazurra Falagán
+   Gonzalo Alba Durán
+   Nuria Bango Iglesias
+   Marcos Llinares Montes
+
+   Script auxiliar que dado el input de barra espaciadora
+   ejecuta un sonido de flauta
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -17,7 +28,6 @@ public class FluteSound : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Space))
         {
             audioData.Play(0);
-            Debug.Log("started");
         }
         else if(Input.GetKeyUp(KeyCode.Space))
         {

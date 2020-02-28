@@ -1,10 +1,13 @@
 ﻿/*    
    Copyright (C) 2020 Grupo 1
    Martín Amechazurra Falagán
-   Gonsalo Alba Durán
+   Gonzalo Alba Durán
    Nuria Bango Iglesias
-   Marcos Linares
+   Marcos Llinares Montes
+    
+   Comportamiento opesto a Seguir, que dado un objetivo se aleja
 */
+
 namespace UCM.IAV.Movimiento
 {
 

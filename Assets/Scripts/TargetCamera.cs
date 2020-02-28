@@ -1,4 +1,15 @@
-﻿namespace UCM.IAV.Movimiento
+﻿/*    
+   Copyright (C) 2020 Grupo 1
+   Martín Amechazurra Falagán
+   Gonzalo Alba Durán
+   Nuria Bango Iglesias
+   Marcos Llinares Montes
+
+   Comportamiento extra para la camara que sigue a un target
+   En este caso será el avatar para poder seguirlo continuamente
+*/
+
+namespace UCM.IAV.Movimiento
 {
     using UnityEngine;
 

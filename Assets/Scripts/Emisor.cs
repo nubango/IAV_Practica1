@@ -1,4 +1,16 @@
-﻿namespace UCM.IAV.Movimiento
+﻿/*    
+   Copyright (C) 2020 Grupo 1
+   Martín Amechazurra Falagán
+   Gonzalo Alba Durán
+   Nuria Bango Iglesias
+   Marcos Llinares Montes
+
+
+   Componente parte de la estructura de mensajes
+   El Emisor es capaz de enviar mensajes a los observadores
+*/
+
+namespace UCM.IAV.Movimiento
 {
 
     using UnityEngine;
@@ -14,11 +26,11 @@
             observadores = Object.FindObjectsOfType<Observador>();
         }
 
-        public void enviarMensaje(MENSAJE_ID id)
+        public void EnviarMensaje(MENSAJE_ID id)
         {
             for (int i = 0; i < observadores.Length; i++)
             {
-                observadores[i].recibirMensaje(id);
+                observadores[i].RecibirMensaje(id);
             }
         }
 

@@ -1,9 +1,12 @@
 ﻿/*    
    Copyright (C) 2020 Grupo 1
    Martín Amechazurra Falagán
-   Gonsalo Alba Durán
+   Gonzalo Alba Durán
    Nuria Bango Iglesias
-   Marcos Linares (?)
+   Marcos Llinares Montes
+
+   Script principal para la simulación de bandada
+   En él se encuentra el array de todos los agentes que pertenecen al grupo
 */
 
 namespace UCM.IAV.Movimiento

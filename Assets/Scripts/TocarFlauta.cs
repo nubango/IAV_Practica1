@@ -1,4 +1,16 @@
-﻿namespace UCM.IAV.Movimiento
+﻿/*    
+   Copyright (C) 2020 Grupo 1
+   Martín Amechazurra Falagán
+   Gonzalo Alba Durán
+   Nuria Bango Iglesias
+   Marcos Llinares Montes
+
+   Componente para el envio de mensajes sobre si se está
+   pulsando la barra espaciadora o no, principal mecanica del
+   jugador
+*/
+
+namespace UCM.IAV.Movimiento
 {
 
     using UnityEngine;
@@ -12,20 +24,19 @@
         // Update is called once per frame
         public void Update()
         {
-            input();
+            FluteInput();
         }
 
-        private void input()
+        private void FluteInput()
         {
             if (Input.GetKey(KeyCode.Space))
             {
-                emisor.enviarMensaje(MENSAJE_ID.TOCAR_FLAUTA);
+                emisor.EnviarMensaje(MENSAJE_ID.TOCAR_FLAUTA);
             }
             else if (Input.GetKeyUp(KeyCode.Space))
             {
-                emisor.enviarMensaje(MENSAJE_ID.NO_TOCAR_FLAUTA);
+                emisor.EnviarMensaje(MENSAJE_ID.NO_TOCAR_FLAUTA);
             }
-
         }
     }
 }

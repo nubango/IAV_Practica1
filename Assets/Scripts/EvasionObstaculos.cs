@@ -1,10 +1,14 @@
 ﻿/*    
    Copyright (C) 2020 Grupo 1
    Martín Amechazurra Falagán
-   Gonsalo Alba Durán
+   Gonzalo Alba Durán
    Nuria Bango Iglesias
-   Marcos Linares (?)
+   Marcos Llinares Montes
+
+   Comportamiento que trata de no chocar con obstáculos que se encuentren
+   en su raycast frontal en un rango determinado
 */
+
 
 namespace UCM.IAV.Movimiento
 {

@@ -1,9 +1,13 @@
 ﻿/*    
    Copyright (C) 2020 Grupo 1
    Martín Amechazurra Falagán
-   Gonsalo Alba Durán
+   Gonzalo Alba Durán
    Nuria Bango Iglesias
-   Marcos Linares (?)
+   Marcos Llinares Montes
+
+   Comportamiento que trata de no chocar con otros agentes en direcciones 
+   distintas con los que se vaya a producir la colisión
+   Calcula el agente que vaya a colisionar “más pronto” con él
 */
 
 namespace UCM.IAV.Movimiento

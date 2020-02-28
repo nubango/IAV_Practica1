@@ -1,6 +1,15 @@
 ﻿/*    
-   Copyright MI FLEQUILLO
+   Copyright (C) 2020 Grupo 1
+   Martín Amechazurra Falagán
+   Gonzalo Alba Durán
+   Nuria Bango Iglesias
+   Marcos Llinares Montes
+    
+   Comportamiento errático de las ratas cuando no escuchan la flauta
+   Se basa en el comportamiento seguir pero se utiliza con posiciones aleatorias
+   dentro de los limites del "mundo" es decir, el suelo
 */
+
 namespace UCM.IAV.Movimiento
 {
 

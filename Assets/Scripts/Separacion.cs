@@ -1,9 +1,12 @@
 ﻿/*    
    Copyright (C) 2020 Grupo 1
    Martín Amechazurra Falagán
-   Gonsalo Alba Durán
+   Gonzalo Alba Durán
    Nuria Bango Iglesias
-   Marcos Linares (?)
+   Marcos Llinares Montes
+
+   Comportamiento que trata de evitar que agentes se peguen
+   demasiado a otros que van en su misma dirección.
 */
 
 namespace UCM.IAV.Movimiento
@@ -28,7 +31,6 @@ namespace UCM.IAV.Movimiento
         {
             f = GetComponent<Seguir>();
         }
-
 
         public override Direccion GetDireccion()
         {
@@ -57,7 +59,6 @@ namespace UCM.IAV.Movimiento
                 }
 
             }
-            //result.lineal.y = 0;
             return result;
         }
     }

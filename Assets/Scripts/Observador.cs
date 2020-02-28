@@ -1,13 +1,23 @@
-﻿namespace UCM.IAV.Movimiento
-{
+﻿/*    
+   Copyright (C) 2020 Grupo 1
+   Martín Amechazurra Falagán
+   Gonzalo Alba Durán
+   Nuria Bango Iglesias
+   Marcos Llinares Montes
 
+   Componente parte de la estructura de mensajes
+   El Observador es capaz de recibir mensajes del emisor
+*/
+
+namespace UCM.IAV.Movimiento
+{
     using UnityEngine;
 
     public class Observador : MonoBehaviour
     {
         // Hay dos tipos de observadores en la práctica: el perro y las ratas
 
-        public void recibirMensaje(MENSAJE_ID id)
+        public void RecibirMensaje(MENSAJE_ID id)
         {
             if (id == MENSAJE_ID.TOCAR_FLAUTA)
             {
