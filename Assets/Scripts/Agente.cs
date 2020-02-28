@@ -87,7 +87,7 @@ namespace UCM.IAV.Movimiento {
         /// <summary>
         /// Al comienzo, se inicialian algunas variables
         /// </summary>
-        void Start()
+        public void Start()
         {
             velocidad = Vector3.zero;
             direccion = new Direccion();
@@ -156,7 +156,7 @@ namespace UCM.IAV.Movimiento {
             if (velocidad.magnitude > velocidadMax)
             {
                 velocidad.Normalize();
-                velocidad = velocidad * velocidadMax;
+                velocidad *= velocidadMax;
             }
 
             if (rotacion > rotacionMax)
